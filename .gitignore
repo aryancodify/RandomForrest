@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.pdf
+graphviz-2.38/
+*.zip
